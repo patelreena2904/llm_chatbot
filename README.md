@@ -18,3 +18,27 @@ pip install -r requirements.txt
 ```
 
 Add your API key to a `.env` file:
+ANTHROPIC_API_KEY=your-key-here
+
+Then run:
+```bash
+python chatbot.py
+```
+
+## Tech used
+Python, Anthropic Claude API, python-dotenv
+
+## What I learned
+- How to call LLM APIs with streaming
+- How to manage multi-turn conversation history
+- How system prompts control model behavior
+- How to handle API errors gracefully
+
+## What I just build
+✅ Real API call to Claude
+✅ System prompt — specialized behavior
+✅ Multi-turn memory — conversation history
+✅ Streaming — token by token output
+✅ Error handling — rate limit, connection, auth
+✅ Special commands — clear, history, quit
+✅ Pushed to GitHub
