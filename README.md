@@ -35,10 +35,10 @@ Python, Anthropic Claude API, python-dotenv
 - How to handle API errors gracefully
 
 ## What I just build
-✅ Real API call to Claude
-✅ System prompt — specialized behavior
-✅ Multi-turn memory — conversation history
-✅ Streaming — token by token output
-✅ Error handling — rate limit, connection, auth
-✅ Special commands — clear, history, quit
-✅ Pushed to GitHub
+- ✅ Real API call to Claude
+- ✅ System prompt — specialized behavior
+- ✅ Multi-turn memory — conversation history
+- ✅ Streaming — token by token output
+- ✅ Error handling — rate limit, connection, auth
+- ✅ Special commands — clear, history, quit
+- ✅ Pushed to GitHub
